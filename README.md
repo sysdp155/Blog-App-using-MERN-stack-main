@@ -1,11 +1,11 @@
-# E-Commerce Platform
+# Interactive Card App
 
-A modern, responsive e-commerce web application built with HTML, CSS, and JavaScript.
+A modern, responsive card management web application built with HTML, CSS, and JavaScript.
 
 ## Features
 
-- Product catalog with dynamic listings
-- Shopping cart functionality
+- Dynamic card creation and management
+- Delete functionality for cards
 - Responsive design for mobile and desktop
 - Clean and intuitive user interface
 - Fast and lightweight implementation
@@ -17,7 +17,7 @@ A modern, responsive e-commerce web application built with HTML, CSS, and JavaSc
 - Vanilla JavaScript for interactivity
 
 ## Getting Started
-werw
+
 Simply open `werew.html` in your web browser to view the application.
 
 ## Project Structure
