@@ -17,7 +17,7 @@ A modern, responsive e-commerce web application built with HTML, CSS, and JavaSc
 - Vanilla JavaScript for interactivity
 
 ## Getting Started
-
+werw
 Simply open `werew.html` in your web browser to view the application.
 
 ## Project Structure
