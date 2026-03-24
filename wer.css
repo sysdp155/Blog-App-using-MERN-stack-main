@@ -48,6 +48,7 @@ h1 {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+    white-space: nowrap;
 }
 
 #addBtn:hover {
@@ -77,6 +78,8 @@ h1 {
 .card h3 {
     color: #333;
     margin-bottom: 10px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .card-actions {
@@ -93,6 +96,7 @@ h1 {
     border-radius: 5px;
     cursor: pointer;
     font-size: 14px;
+    transition: background-color 0.3s;
 }
 
 .delete-btn:hover {
